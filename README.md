@@ -11,3 +11,4 @@ Il faut:
 - un retour client
 - une interface envoi et de retour
 
+api_key = "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"
